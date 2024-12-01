@@ -16,7 +16,7 @@
 title: Kacper SecOps-Blog
 #email: makiety-bilon-0s@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Insights, best practices, and deep dives into SecOps. Got questions, ideas, or just want to connect? Reach out on LinkedIn!
+  Insights, best practices, and deep dives into SecOps. Have questions, ideas, or just want to connect? Reach me on LinkedIn!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kacyper44.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
